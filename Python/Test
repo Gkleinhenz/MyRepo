@@ -1,0 +1,6 @@
+Var1 = "Who is" 
+Var2 = "Robin WIllams" 
+print(Var1 + " " + Var2)
+''' 
+Dont read
+'''
